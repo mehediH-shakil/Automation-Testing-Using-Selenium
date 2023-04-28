@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="13" failed="2" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-28T19:02:54 BDT" name="Suite" finished-at="2023-04-28T19:05:08 BDT" duration-ms="133087">
+    <groups>
+    </groups>
+    <test started-at="2023-04-28T19:02:54 BDT" name="Test" finished-at="2023-04-28T19:05:08 BDT" duration-ms="133087">
+      <class name="tourismpoint.testCase.LogInPage_TestCase">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tourismpoint.testCase.LogInPage_TestCase@58326051]" started-at="2023-04-28T19:02:55 BDT" name="setup" finished-at="2023-04-28T19:03:03 BDT" duration-ms="8845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="AccessLoginPage()[pri:1, instance:tourismpoint.testCase.LogInPage_TestCase@58326051]" started-at="2023-04-28T19:03:03 BDT" name="AccessLoginPage" finished-at="2023-04-28T19:03:04 BDT" duration-ms="59" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AccessLoginPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tourismpoint.testCase.LogInPage_TestCase@58326051]" started-at="2023-04-28T19:03:04 BDT" name="tearDown" finished-at="2023-04-28T19:03:05 BDT" duration-ms="1463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tourismpoint.testCase.LogInPage_TestCase@58326051]" started-at="2023-04-28T19:03:05 BDT" name="setup" finished-at="2023-04-28T19:03:12 BDT" duration-ms="6835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Login_with_empty_Email()[pri:2, instance:tourismpoint.testCase.LogInPage_TestCase@58326051]" started-at="2023-04-28T19:03:12 BDT" name="Login_with_empty_Email" finished-at="2023-04-28T19:03:12 BDT" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_with_empty_Email -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tourismpoint.testCase.LogInPage_TestCase@58326051]" started-at="2023-04-28T19:03:12 BDT" name="tearDown" finished-at="2023-04-28T19:03:14 BDT" duration-ms="1684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tourismpoint.testCase.LogInPage_TestCase@58326051]" started-at="2023-04-28T19:03:14 BDT" name="setup" finished-at="2023-04-28T19:03:20 BDT" duration-ms="6038" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Login_with_empty_password()[pri:3, instance:tourismpoint.testCase.LogInPage_TestCase@58326051]" started-at="2023-04-28T19:03:20 BDT" name="Login_with_empty_password" finished-at="2023-04-28T19:03:20 BDT" duration-ms="201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_with_empty_password -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tourismpoint.testCase.LogInPage_TestCase@58326051]" started-at="2023-04-28T19:03:20 BDT" name="tearDown" finished-at="2023-04-28T19:03:21 BDT" duration-ms="1475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tourismpoint.testCase.LogInPage_TestCase@58326051]" started-at="2023-04-28T19:03:21 BDT" name="setup" finished-at="2023-04-28T19:03:28 BDT" duration-ms="6480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Login_With_incorrect_Email()[pri:4, instance:tourismpoint.testCase.LogInPage_TestCase@58326051]" started-at="2023-04-28T19:03:28 BDT" name="Login_With_incorrect_Email" finished-at="2023-04-28T19:03:28 BDT" duration-ms="232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_With_incorrect_Email -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tourismpoint.testCase.LogInPage_TestCase@58326051]" started-at="2023-04-28T19:03:28 BDT" name="tearDown" finished-at="2023-04-28T19:03:30 BDT" duration-ms="1455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tourismpoint.testCase.LogInPage_TestCase@58326051]" started-at="2023-04-28T19:03:30 BDT" name="setup" finished-at="2023-04-28T19:03:37 BDT" duration-ms="7278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Login_With_incorrect_Password()[pri:5, instance:tourismpoint.testCase.LogInPage_TestCase@58326051]" started-at="2023-04-28T19:03:37 BDT" name="Login_With_incorrect_Password" finished-at="2023-04-28T19:03:37 BDT" duration-ms="225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_With_incorrect_Password -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tourismpoint.testCase.LogInPage_TestCase@58326051]" started-at="2023-04-28T19:03:37 BDT" name="tearDown" finished-at="2023-04-28T19:03:39 BDT" duration-ms="1589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tourismpoint.testCase.LogInPage_TestCase -->
+      <class name="tourismpoint.testCase.RegistrationPage_TestCase">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tourismpoint.testCase.RegistrationPage_TestCase@b2c5e07]" started-at="2023-04-28T19:03:39 BDT" name="setup" finished-at="2023-04-28T19:03:45 BDT" duration-ms="6577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="AccessRegistrationPage()[pri:1, instance:tourismpoint.testCase.RegistrationPage_TestCase@b2c5e07]" started-at="2023-04-28T19:03:45 BDT" name="AccessRegistrationPage" finished-at="2023-04-28T19:03:45 BDT" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AccessRegistrationPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tourismpoint.testCase.RegistrationPage_TestCase@b2c5e07]" started-at="2023-04-28T19:03:45 BDT" name="tearDown" finished-at="2023-04-28T19:03:47 BDT" duration-ms="1453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tourismpoint.testCase.RegistrationPage_TestCase@b2c5e07]" started-at="2023-04-28T19:03:47 BDT" name="setup" finished-at="2023-04-28T19:03:54 BDT" duration-ms="6817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Registration_with_invalid_Name()[pri:2, instance:tourismpoint.testCase.RegistrationPage_TestCase@b2c5e07]" started-at="2023-04-28T19:03:54 BDT" name="Registration_with_invalid_Name" finished-at="2023-04-28T19:03:54 BDT" duration-ms="486" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Tourism Point - Registration Page] but found [Tourism Point - Login Page]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Tourism Point - Registration Page] but found [Tourism Point - Login Page]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1577)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:655)
+at org.testng.Assert.assertEquals(Assert.java:665)
+at tourismpoint.testCase.RegistrationPage_TestCase.Registration_with_invalid_Name(RegistrationPage_TestCase.java:53)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registration_with_invalid_Name -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tourismpoint.testCase.RegistrationPage_TestCase@b2c5e07]" started-at="2023-04-28T19:03:54 BDT" name="tearDown" finished-at="2023-04-28T19:03:56 BDT" duration-ms="1559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tourismpoint.testCase.RegistrationPage_TestCase@b2c5e07]" started-at="2023-04-28T19:03:56 BDT" name="setup" finished-at="2023-04-28T19:04:02 BDT" duration-ms="6261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Registration_with_empty_Name()[pri:3, instance:tourismpoint.testCase.RegistrationPage_TestCase@b2c5e07]" started-at="2023-04-28T19:04:02 BDT" name="Registration_with_empty_Name" finished-at="2023-04-28T19:04:02 BDT" duration-ms="276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registration_with_empty_Name -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tourismpoint.testCase.RegistrationPage_TestCase@b2c5e07]" started-at="2023-04-28T19:04:02 BDT" name="tearDown" finished-at="2023-04-28T19:04:04 BDT" duration-ms="1530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tourismpoint.testCase.RegistrationPage_TestCase@b2c5e07]" started-at="2023-04-28T19:04:04 BDT" name="setup" finished-at="2023-04-28T19:04:10 BDT" duration-ms="6676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Registration_with_invalid_Email()[pri:4, instance:tourismpoint.testCase.RegistrationPage_TestCase@b2c5e07]" started-at="2023-04-28T19:04:10 BDT" name="Registration_with_invalid_Email" finished-at="2023-04-28T19:04:11 BDT" duration-ms="401" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Tourism Point - Registration Page] but found [Tourism Point - Login Page]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Tourism Point - Registration Page] but found [Tourism Point - Login Page]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1577)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:655)
+at org.testng.Assert.assertEquals(Assert.java:665)
+at tourismpoint.testCase.RegistrationPage_TestCase.Registration_with_invalid_Email(RegistrationPage_TestCase.java:78)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registration_with_invalid_Email -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tourismpoint.testCase.RegistrationPage_TestCase@b2c5e07]" started-at="2023-04-28T19:04:11 BDT" name="tearDown" finished-at="2023-04-28T19:04:12 BDT" duration-ms="1552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tourismpoint.testCase.RegistrationPage_TestCase@b2c5e07]" started-at="2023-04-28T19:04:12 BDT" name="setup" finished-at="2023-04-28T19:04:19 BDT" duration-ms="6383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Registration_with_empty_Email()[pri:5, instance:tourismpoint.testCase.RegistrationPage_TestCase@b2c5e07]" started-at="2023-04-28T19:04:19 BDT" name="Registration_with_empty_Email" finished-at="2023-04-28T19:04:19 BDT" duration-ms="318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registration_with_empty_Email -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tourismpoint.testCase.RegistrationPage_TestCase@b2c5e07]" started-at="2023-04-28T19:04:19 BDT" name="tearDown" finished-at="2023-04-28T19:04:21 BDT" duration-ms="1585" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tourismpoint.testCase.RegistrationPage_TestCase@b2c5e07]" started-at="2023-04-28T19:04:21 BDT" name="setup" finished-at="2023-04-28T19:04:32 BDT" duration-ms="10995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Registration_with_empty_password()[pri:6, instance:tourismpoint.testCase.RegistrationPage_TestCase@b2c5e07]" started-at="2023-04-28T19:04:32 BDT" name="Registration_with_empty_password" finished-at="2023-04-28T19:04:32 BDT" duration-ms="286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registration_with_empty_password -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tourismpoint.testCase.RegistrationPage_TestCase@b2c5e07]" started-at="2023-04-28T19:04:32 BDT" name="tearDown" finished-at="2023-04-28T19:04:33 BDT" duration-ms="1598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tourismpoint.testCase.RegistrationPage_TestCase@b2c5e07]" started-at="2023-04-28T19:04:33 BDT" name="setup" finished-at="2023-04-28T19:04:40 BDT" duration-ms="6633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Registration_With_Valid_information()[pri:7, instance:tourismpoint.testCase.RegistrationPage_TestCase@b2c5e07]" started-at="2023-04-28T19:04:40 BDT" name="Registration_With_Valid_information" finished-at="2023-04-28T19:04:40 BDT" duration-ms="384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registration_With_Valid_information -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tourismpoint.testCase.RegistrationPage_TestCase@b2c5e07]" started-at="2023-04-28T19:04:40 BDT" name="tearDown" finished-at="2023-04-28T19:04:42 BDT" duration-ms="1436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tourismpoint.testCase.RegistrationPage_TestCase@b2c5e07]" started-at="2023-04-28T19:04:42 BDT" name="setup" finished-at="2023-04-28T19:04:49 BDT" duration-ms="6682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Registration_With_exist_Email()[pri:8, instance:tourismpoint.testCase.RegistrationPage_TestCase@b2c5e07]" started-at="2023-04-28T19:04:49 BDT" name="Registration_With_exist_Email" finished-at="2023-04-28T19:04:49 BDT" duration-ms="345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registration_With_exist_Email -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tourismpoint.testCase.RegistrationPage_TestCase@b2c5e07]" started-at="2023-04-28T19:04:49 BDT" name="tearDown" finished-at="2023-04-28T19:04:51 BDT" duration-ms="1616" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tourismpoint.testCase.RegistrationPage_TestCase@b2c5e07]" started-at="2023-04-28T19:04:51 BDT" name="setup" finished-at="2023-04-28T19:04:57 BDT" duration-ms="6733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Registration_With_exist_empty_confirm_password()[pri:9, instance:tourismpoint.testCase.RegistrationPage_TestCase@b2c5e07]" started-at="2023-04-28T19:04:57 BDT" name="Registration_With_exist_empty_confirm_password" finished-at="2023-04-28T19:04:58 BDT" duration-ms="330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registration_With_exist_empty_confirm_password -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tourismpoint.testCase.RegistrationPage_TestCase@b2c5e07]" started-at="2023-04-28T19:04:58 BDT" name="tearDown" finished-at="2023-04-28T19:04:59 BDT" duration-ms="1548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tourismpoint.testCase.RegistrationPage_TestCase@b2c5e07]" started-at="2023-04-28T19:04:59 BDT" name="setup" finished-at="2023-04-28T19:05:06 BDT" duration-ms="6528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Registration_With_exist_unmacth_confirm_password()[pri:10, instance:tourismpoint.testCase.RegistrationPage_TestCase@b2c5e07]" started-at="2023-04-28T19:05:06 BDT" name="Registration_With_exist_unmacth_confirm_password" finished-at="2023-04-28T19:05:06 BDT" duration-ms="309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registration_With_exist_unmacth_confirm_password -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tourismpoint.testCase.RegistrationPage_TestCase@b2c5e07]" started-at="2023-04-28T19:05:06 BDT" name="tearDown" finished-at="2023-04-28T19:05:08 BDT" duration-ms="1568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tourismpoint.testCase.RegistrationPage_TestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
